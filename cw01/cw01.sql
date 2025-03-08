@@ -1,4 +1,4 @@
---cw01 Hubert Gołda 417448
+--cw01 Hubert Gołda
 
 --1
 select matchid, player from gole where teamid = 'POL';
